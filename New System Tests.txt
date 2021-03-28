@@ -1,0 +1,85 @@
+
+#// Items
+#// Purchase: req fields,
+#/ Sale
+# Migration mechanisms
+#// Barcode with package and UI of the barcode
+# Customers
+# Suppliers
+
+
+# Items:
+-> //allow update of qty in the details
+-> //when sb changes the barcode method to generate company barcode change the barcode to new
+-> //calculate total amount after update
+# Check if profit and loss entry is working properly
+-> //if barcode is company barcode: dont add new barcodes and dont allow barcode edits
+
+
+
+# Purchase
+-> handling of its own barcode
+-> remove required of barcode
+-> make the purchase detail UI better
+-> get the barcode and insert into purchase items
+-> //purchase detail items list is not showing properly
+-> //remove ref in purchases list
+
+
+# Sale
+-> Del button
+-> Always set the customer id as POS
+-> //Date UI slightly expand
+->// Void sales
+ 
+
+#// Damages: cancel damage and its effects, additional fields in detail, list
+#// Adjustments: cancel adjustment, list
+#// Transfers: UI, cancellation
+
+
+
+# Payments with jquery
+# Proto type of clothes Rent
+
+# Encryption and packaging
+
+
+- Add Status every where: in details, in list
+-// make a default image if there is no image
+-// add the additional row to database if there is another barcode
+- UI adjustments: data tables, buttons, item ...etc
+- Reports testing
+
+
+
+Merhawi
+# Validation in every section
+# Dashboard
+# Testing both Meruma and Alpha
+
+
+
+# Meruma
+- Inventory activities
+- Accounting activities
+
+
+
+
+# Accounting for Sales/Purchase/Expenses/Suppliers/Customers
+- BBF journal entry
+
+
+- make qty as a sum of shop and store
+
+
+
+# Test
+
+
+# 2nd Phase
+# Backup and recovery
+
+
+
