@@ -1,4 +1,5 @@
 <h1> Simple POS (Point Of Sale) <h1>
+ <img src="https://user-images.githubusercontent.com/32343117/216508054-97dde8c5-c688-455a-982c-0e141c42b44e.PNG" />   
 ![POS](https://user-images.githubusercontent.com/32343117/216508054-97dde8c5-c688-455a-982c-0e141c42b44e.PNG)
 
 This point of sale (POS) system is built to solve inventory and accounting problems in Eritrea.
