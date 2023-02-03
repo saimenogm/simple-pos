@@ -8,7 +8,7 @@
 </p>
 
 <h2>Developer: SIMON OKBAGERGIS MANNA</h2> <br/>
-<h2>The system has the following features:-</h2><br/>
+<h2>About the system</h2><br/>
 This point of sale (POS) system is built to solve inventory and accounting problems. <br/>
 This system enables users (small and medium merchandise/inventory businesses) to manage their income, expense and profit and losses.<br/>
 It is built in Laravel, JavaScript, Angular, MySQL and Bootstrap.<br/>
