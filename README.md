@@ -1,6 +1,10 @@
 <h1> Simple POS (Point Of Sale) </h1>
+<P>
  <img src="https://user-images.githubusercontent.com/32343117/216508054-97dde8c5-c688-455a-982c-0e141c42b44e.PNG" width=300 height=300 />   
 
+![POS_USAGE](https://user-images.githubusercontent.com/32343117/216508771-657000ef-25f5-4c1a-964f-fa2c0077e644.PNG)
+
+    </P>
 This point of sale (POS) system is built to solve inventory and accounting problems in Eritrea. <br/>
 This system enables users (small and medium merchandise/inventory businesses) to manage their income, expense and profit and losses.<br/>
 It is built in Laravel, JavaScript, Angular, MySQL and Bootstrap.<br/>
