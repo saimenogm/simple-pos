@@ -1,5 +1,8 @@
-<h1> Advanced POS (Point Of Sale) </h1>
+<h1 align="center"> Advanced POS (Point Of Sale) </h1>
 <p>
+    
+    ![Complete_POS](https://user-images.githubusercontent.com/32343117/216509195-007b71c5-01f2-4305-a2d7-552133cb5a05.PNG)
+
  <img src="https://user-images.githubusercontent.com/32343117/216508054-97dde8c5-c688-455a-982c-0e141c42b44e.PNG" width=300 height=300 />   
  <img src="https://user-images.githubusercontent.com/32343117/216508771-657000ef-25f5-4c1a-964f-fa2c0077e644.PNG" width=300 height=300 />   
 </p>
