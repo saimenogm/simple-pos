@@ -1,6 +1,6 @@
 <h1 align="center"> Advanced POS (Point Of Sale) </h1>
 <p>
- <img src="https://user-images.githubusercontent.com/32343117/223017628-ef5d8844-51e5-4246-aca1-36d633138e6d.PNG" width=500 height=350 /> &nbsp; 
+ <img src="https://user-images.githubusercontent.com/32343117/223017628-ef5d8844-51e5-4246-aca1-36d633138e6d.PNG" width=850 height=400 /> &nbsp; 
 </p>
 
 <p>
